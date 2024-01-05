@@ -22,3 +22,7 @@ Development of the mobile application called [Wiken](https://play.google.com/sto
 <h3 align="center">⛅ Weather App: Application to see the weather in real time anywhere in the world</h3>
 
 ![Weather app](https://github.com/NickoGu/NickoGu/assets/92960428/3b8b72e4-6b08-4ad7-907a-1829d7ef02e6)
+
+<h3 align="center">🎥 Movies App: Application that uses TheMovieDb API to display information about any movie</h3>
+
+![image](https://github.com/NickoGu/NickoGu/assets/92960428/668c0da8-2d1a-4408-8211-3a6a455c5ba5)
